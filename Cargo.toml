@@ -1,0 +1,11 @@
+[package]
+name = "RUST_NMEA_PARSER"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = { version = "0.27", features = ["wgpu", "persistence"] }
+egui = "0.27"
+egui_plot = "0.27"
+serialport = "4.2"
+nmea = "0.6"
