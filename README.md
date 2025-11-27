@@ -15,7 +15,7 @@ nmea = "0.6"
 I was able to open the U-Blox port on my GPS dongle and parse the longitude and latitude, printing the information in the streaming output for the user to see.
 Also showing the Satellites its fixed to, and the satellites its attached to in the circle.
 
-## Sample Terminal Output
+## Sample GUI Output
 
 ![GUI_Output](GUI_output.png)
 
